@@ -1,0 +1,13 @@
+{
+  "name": "sessionkeepalive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Spencer Yoder",
+  "license": "ISC",
+  "dependencies": {
+    "clui": "^0.3.6",
+    "inquirer": "^7.0.0"
+  }
+}
